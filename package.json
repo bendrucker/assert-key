@@ -1,0 +1,32 @@
+{
+  "name": "assert-key",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Assert that an object has a specified key",
+  "license": "MIT",
+  "repository": "bendrucker/assert-key",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "assert",
+    "object",
+    "hash",
+    "key"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "assert-ok": "~1.0.0"
+  }
+}
