@@ -1,4 +1,4 @@
-# assert-key [![Build Status](https://travis-ci.org/bendrucker/assert-key.svg?branch=master)](https://travis-ci.org/bendrucker/assert-key)
+# assert-key [![Build Status](https://travis-ci.org/bendrucker/assert-key.svg?branch=master)](https://travis-ci.org/bendrucker/assert-key) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-key.svg)](https://greenkeeper.io/)
 
 > Assert that an object has a specified key
 
